@@ -232,3 +232,57 @@
 .feynman__title_indent_top {
   margin: 100px 0 70px 0;
 }
+
+/* БЛОК KAUFMAN */
+
+.kaufman {
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  flex-flow: row wrap;
+  justify-content: center;
+  background-color: #1f1f1f;
+}
+
+.section-title_theme_dark {
+  color: white;
+  margin: 90px 0 20px 0;
+}
+
+.section-subtitle_theme_dark {
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: normal;
+  margin: 0;
+  color: white;
+}
+
+.table_theme_dark {
+  margin: 0 auto 90px auto;
+  z-index: 1;
+}
+
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+}
+
+.table__heading {
+  margin: 0;
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 700;
+}
+
+.table__text_theme_dark {
+  margin-top: 20px;
+}
+
+.kaufman__traingle {
+  position: absolute;
+  right: -210px;
+  width: 877px;
+  height: 877px;
+}
