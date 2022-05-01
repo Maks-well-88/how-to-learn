@@ -37,7 +37,7 @@
   line-height: 96px;
   font-weight: 700;
   margin-left: 64px;
-  z-index: 1;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -48,13 +48,14 @@
   position: absolute;
   bottom: 30px;
   left: 64px;
-  z-index: 1;
+  z-index: 2;
 }
 
 .header__link {
   display: inline;
   color: #2f80ed;
   text-decoration: none;
+  z-index: 2;
 }
 
 .header__main-illustration {
@@ -73,6 +74,7 @@
   position: absolute;
   right: 0;
   top: 64px;
+  z-index: 0;
 }
 
 /* БЛОК DESCRIPTION */
