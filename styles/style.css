@@ -112,7 +112,7 @@
   line-height: 34px;
 }
 
-.two-colunms__span-accent {
+.two-columns__span-accent {
   font-size: 24px;
   font-weight: 700;
   line-height: 34px;
@@ -265,7 +265,8 @@
   color: white;
 }
 
-.kaufman__traingle {
+.kaufman__triangle {
+  background-image: url('../images/kaufman-triangle.svg');
   position: absolute;
   right: -210px;
   width: 877px;
@@ -311,7 +312,7 @@
   font-weight: 700;
 }
 
-.column__links {
+.footer__column-links {
   display: flex;
   flex-direction: column;
   margin: 20px 0 16px 0;
