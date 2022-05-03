@@ -332,4 +332,9 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  opacity: 0.5;
+}
+
+.footer__column-link:hover {
+  opacity: 1;
 }
