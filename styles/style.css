@@ -235,6 +235,7 @@
 .section-title_theme_dark {
   color: white;
   margin: 90px 0 20px 0;
+  z-index: 1;
 }
 
 .section-subtitle_theme_dark {
@@ -267,6 +268,7 @@
 
 .kaufman__triangle {
   background-image: url('../images/kaufman-triangle.svg');
+  background-size: cover;
   position: absolute;
   right: -210px;
   width: 877px;
