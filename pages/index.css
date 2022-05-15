@@ -13,6 +13,14 @@
 /* БЛОК DESCRIPTION */
 @import url('../blocks/description/description.css');
 
+/* БЛОК TECHNIQUES */
+@import url('../blocks/techniques/techniques.css');
+@import url('../blocks/techniques/cards/cards.css');
+@import url('../blocks/techniques/cards/__item/cards__item.css');
+@import url('../blocks/techniques/cards/__image/cards__image.css');
+@import url('../blocks/techniques/cards/__title/cards__title.css');
+@import url('../blocks/techniques/cards/__description/cards__description.css');
+
 /* БЛОК TWO-COLUMNS */
 @import url('../blocks/two-columns/two-columns.css');
 @import url('../blocks/two-columns/__brief/two-columns__brief.css');
