@@ -47,59 +47,8 @@
 
 /* БЛОК DIGITS */
 
-.digits {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-}
 
-.section-title {
-  width: 60%;
-  text-align: center;
-  font-size: 60px;
-  line-height: 1.15;
-  font-weight: 700;
-  margin: 0;
-  margin-bottom: 20px;
-}
 
-.section-subtitle {
-  width: 60%;
-  text-align: center;
-  font-size: 24px;
-  line-height: 34px;
-  font-weight: normal;
-  margin: 0;
-}
-
-.table {
-  width: 1100px;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-between;
-  margin: 0 auto 100px auto;
-  padding: 0;
-  list-style: none;
-}
-
-.table__cell {
-  width: 250px;
-  margin-top: 60px;
-}
-
-.table__heading {
-  margin: 0;
-  font-size: 24px;
-  line-height: 1.15;
-  font-weight: 700;
-}
-
-.table__text {
-  margin: 20px 0 0 0;
-  font-size: 18px;
-  line-height: 1.2;
-  font-weight: normal;
-}
 
 /* БЛОК FEYNMAN */
 
@@ -142,58 +91,4 @@
   position: absolute;
   top: 50%;
   right: 48px;
-}
-
-/* БЛОК KAUFMAN */
-
-.kaufman {
-  display: flex;
-  position: relative;
-  overflow: hidden;
-  flex-flow: row wrap;
-  justify-content: center;
-  background-color: #1f1f1f;
-}
-
-.section-title_theme_dark {
-  color: white;
-  margin: 90px 0 20px 0;
-  z-index: 1;
-}
-
-.section-subtitle_theme_dark {
-  font-size: 24px;
-  line-height: 34px;
-  font-weight: normal;
-  margin: 0;
-  color: white;
-}
-
-.table_theme_dark {
-  margin: 0 auto 90px auto;
-  z-index: 1;
-}
-
-.table__cell_theme_dark {
-  width: 200px;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
-.table__heading_theme_dark {
-  color: white;
-}
-
-.table__text_theme_dark {
-  margin-top: 20px;
-  color: white;
-}
-
-.kaufman__triangle {
-  background-image: url('../images/kaufman-triangle.svg');
-  background-size: cover;
-  position: absolute;
-  right: -210px;
-  width: 877px;
-  height: 877px;
 }
