@@ -21,6 +21,11 @@
 @import url('../blocks/techniques/cards/__title/cards__title.css');
 @import url('../blocks/techniques/cards/__description/cards__description.css');
 
+/* БЛОК VIDEO */
+@import url('../blocks/video/video.css');
+@import url('../blocks/video/__iftames/video__iftames.css');
+@import url('../blocks/video/__iftame/video__iftame.css');
+
 /* БЛОК TWO-COLUMNS */
 @import url('../blocks/two-columns/two-columns.css');
 @import url('../blocks/two-columns/__brief/two-columns__brief.css');

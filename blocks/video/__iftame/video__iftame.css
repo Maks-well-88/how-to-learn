@@ -1,0 +1,8 @@
+.video__iftame {
+  width: 515px; 
+  height: 316px;
+}
+
+.video__iftame:first-of-type {
+  margin-right: 20px;
+}
