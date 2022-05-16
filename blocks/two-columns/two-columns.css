@@ -3,5 +3,6 @@
   flex-flow: row nowrap;
   justify-content: space-between;
   width: 80%;
-  margin: 100px auto;
+  margin: 0 auto;
+  padding-top: 100px;
 }

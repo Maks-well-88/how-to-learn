@@ -26,6 +26,9 @@
 @import url('../blocks/video/__iftames/video__iftames.css');
 @import url('../blocks/video/__iftame/video__iftame.css');
 
+/* БЛОК OAKLEY */
+@import url('../blocks/oakley/oakley.css');
+
 /* БЛОК TWO-COLUMNS */
 @import url('../blocks/two-columns/two-columns.css');
 @import url('../blocks/two-columns/__brief/two-columns__brief.css');
