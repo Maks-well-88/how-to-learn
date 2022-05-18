@@ -23,8 +23,8 @@
 
 /* БЛОК VIDEO */
 @import url('../blocks/video/video.css');
-@import url('../blocks/video/__iftames/video__iftames.css');
-@import url('../blocks/video/__iftame/video__iftame.css');
+@import url('../blocks/video/__iframes/video__iframes.css');
+@import url('../blocks/video/__iframe/video__iframe.css');
 @import url('../blocks/video/_shift/video_shift_bottom.css');
 
 /* БЛОК OAKLEY */
